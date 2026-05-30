@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Shared\UrlShortener.Communication\UrlShortener.Communication.csproj" />
-    <ProjectReference Include="..\..\Shared\UrlShortener.Exceptions\UrlShortener.Exceptions.csproj" />
     <ProjectReference Include="..\UrlShortener.Application\UrlShortener.Application.csproj" />
   </ItemGroup>
 
